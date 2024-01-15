@@ -1,3 +1,5 @@
+//find target pair integers with key difference
+//using binary search and vectors in function
 #include<iostream>
 using namespace std;
 int BS(int arr[],int n,int key){
